@@ -1,0 +1,9 @@
+company,area,connections,company1,address
+# hay!
+vi,delhi,4,mzoo,Delhi2
+# this contains unformatted data
+vi,sre,5,local,AV
+rel,delhi,4,qwalcom,Delhi1
+#this is comments related to data
+rel,noida,5,gov,noidaExt
+airtel,delhi,6,spice,Delhi6

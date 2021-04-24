@@ -1,0 +1,6 @@
+company,area,connections,company1,address
+vi,delhi,4,mzoo,Delhi2
+vi,sre,5,local,AV
+rel,delhi,4,qwalcom,Delhi1
+rel,noida,,gov,noidaExt
+airtel,delhi,6,spice,Delhi6
